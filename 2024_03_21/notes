@@ -1,0 +1,25 @@
+Trabalho em equipe:
+    - Necessita SCM/Versionamento de código
+            GIT(MAIS IMPORTANTE)
+            svn
+            perforce(Jogos)
+            mercurial...
+    - O que versionar
+          Doc
+          Código fonte
+          Testes
+          Imagens e binários
+    - NÃO VERSIONAR
+          Senhas
+          Chaves de API
+          Logs de aplicacao
+          Informacoes sensiveis
+          Dados de usuários
+    - Arquivos Markdown
+
+Obs: Git
+        - Offline
+        - Local
+        - Facil de manusear(Fork, branch, merge)
+     LFS(Git large file storage)
+     GitLab
