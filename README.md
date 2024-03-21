@@ -18,6 +18,6 @@
 
 ![alt text](image.png)
 
-## Notes
+## Notas
 
 [Notas](https://github.com/Luda-costa/Cienciadacomp-2024/blob/main/2024_03_21/notes)
