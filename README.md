@@ -7,7 +7,7 @@
   - TLOU2
     - TLou: Left behind
 - ([Socnic](https://www.sonicthehedgehog.com))
-- ˜Gris˜
+- ~~Gris~~
 - *Persona*
 - R6
 - Hades
