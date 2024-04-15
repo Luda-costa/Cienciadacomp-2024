@@ -1,0 +1,35 @@
+Linguagens:
+    - Alto nivel
+        Mais abstratas
+        Independentes da maquina
+        Mais proximas das linguagens humanas
+    - Baixo nivel
+        Mais proximas do hardware
+        Maior controle
+        Maior desempenho
+        Mais dificeis de programar
+    - Proposito geral
+        Mais versateis
+        Mais usuarios
+    - Dominio especifico
+        Muito nichadas
+        Geralmente usadas junto de linguagens gerais
+Compilação e interpretação:
+    - Compilação
+        Menos versateis(-portateis)
+        Requer menos memoria
+        Tempo de compilar mais longo    
+        Convertido em codigo de maquina
+    - Interpretação
+        Traduzido linha por linha
+        Velocidade mais lenta
+        mais portatil
+Dinamicamente/estaticamente tipado:
+    - Dinamicamente
+        Tipos de dados associados durante a o programa
+    - Estaticamente
+        Tipos de dados definidos antes da compilação
+Garbage colletion:
+    Mecanismo automatico para ajudar na alocação da memoria
+    Ajuda em memory leaks
+    Simplifica para os desenvolvedores
