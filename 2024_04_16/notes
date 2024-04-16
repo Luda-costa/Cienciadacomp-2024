@@ -1,1 +1,38 @@
-rasdras
+Convençao:
+    - Snake_case
+        user_name
+        total_amount
+    - CamelCase
+        UserName
+        TotalAmount
+    - Constantes
+        PI_VALUE
+        MAX_VALUE
+Logica Booleana:
+    bool('') --> False
+    bool ('a') --> True
+    bool (0) --> False
+    bool (1) --> True
+Tipos de dados:
+    - Lista
+        mutavel
+        ordenada
+    - Tuple
+        imutavel
+        ordenada
+    - Set
+        mutavel
+        nao ordenado
+        Operações:
+            | = união
+            & = intersecção
+            - = diferença
+    - Dicionario
+        mutavel
+        key-value
+
+obs:
+    None != 0
+    """ Para escrever um texto formatado """
+    \n quebra linha
+    \',\", ou inverso para escrever aspas
