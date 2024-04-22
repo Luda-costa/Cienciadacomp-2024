@@ -7,3 +7,7 @@ Operadores lógicos:
         not
         and
         or
+match-case:
+    -"Syntatic sugar"
+    - É o switch do c
+    - Case_ : +- o else
