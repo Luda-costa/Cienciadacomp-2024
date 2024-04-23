@@ -1,8 +1,13 @@
 Listas:
     - Mutavel
-    -Ordenada
+    - Ordenada
     - Heterogenea
         pode armazenar outras listas
+    - funcionalidades
+        .len()
+        .append()
+        .pop()
+        .remove()
 
 obs:
     -dir()
