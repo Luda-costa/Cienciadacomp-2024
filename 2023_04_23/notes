@@ -1,0 +1,8 @@
+Listas:
+    - Mutavel
+    -Ordenada
+    - Heterogenea
+        pode armazenar outras listas
+
+obs:
+    -dir()
