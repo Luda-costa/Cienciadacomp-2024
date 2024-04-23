@@ -1,4 +1,5 @@
 Listas:
+    -[]
     - Mutavel
     - Ordenada
     - Heterogenea
@@ -11,6 +12,16 @@ Listas:
         .index()
         lista[]
         Informação in lista = True/False
+
+Tupla:
+    -()
+    - Imutavel
+    - Ordenada
+    - Heterogenea
+    - funcionalidades
+     .index()
+    lista[]
+    Informação in lista = True/False
 
 obs:
     -dir()
