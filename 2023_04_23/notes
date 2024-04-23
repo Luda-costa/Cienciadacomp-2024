@@ -8,6 +8,9 @@ Listas:
         .append()
         .pop()
         .remove()
+        .index()
+        lista[]
+        Informação in lista = True/False
 
 obs:
     -dir()
