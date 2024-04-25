@@ -1,2 +1,7 @@
 While:
-    - executa enquanto verdadeiro
+    - Executa enquanto verdadeiro
+
+lista aninhadas(nested):
+    - Lista dentro de listas
+    - Matrizes/Matrix
+    - Podem ter diferentes tamanhos
