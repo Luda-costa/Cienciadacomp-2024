@@ -5,3 +5,9 @@ lista aninhadas(nested):
     - Lista dentro de listas
     - Matrizes/Matrix
     - Podem ter diferentes tamanhos
+
+obs:
+    - Break
+        Quebra a sequencia de laço
+    - Continue
+         Pula e vai para o proximo valor
