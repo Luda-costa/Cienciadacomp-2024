@@ -1,3 +1,15 @@
 string:
     - Lista de caracteres
+    - Concatenação +
+        juntar duas strings
+    - Split
+        Divide a string em uma lista
+        .split('-')    
+    - Slice
+        "fatia" a string
+
+Obs:
+    - Interpolation/f-strings
+         print(f'Ola, {nome}, você tem {anos} anos.')
+
     
