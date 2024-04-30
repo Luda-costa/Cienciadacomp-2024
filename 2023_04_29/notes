@@ -7,7 +7,20 @@ string:
         .split('-')    
     - Slice
         "fatia" a string
-
+    - Replace 
+        Substitui o caracter determinado
+    - Captalize
+        .captilize
+        Primeira letra maiuscula
+Random:
+    - Valores 'aleatorios'
+    - Nao sao realmente aleatorios
+    - random.sample
+        embaralha
+    - random.choice
+        escolhe um
+    - random.random
+        escolhe um numero
 Obs:
     - Interpolation/f-strings
          print(f'Ola, {nome}, você tem {anos} anos.')
