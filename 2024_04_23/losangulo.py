@@ -11,7 +11,7 @@ if alt%2 == 0:
 # primeira metada do losangulo
 for num in range(alt+1):
    if num%2 != 0 :
-       print('.' * (tamanho - c)  + '#' * num)
+       print('' * (tamanho - c)  + '#' * num)
        c += 1
 
 # segunda metade
